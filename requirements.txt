@@ -1,0 +1,18 @@
+# Frontend & Backend Web
+streamlit
+fastapi
+uvicorn
+python-multipart
+
+# Text Extraction
+PyPDF2
+pdfplumber
+python-docx
+
+# LLM Integration (Gemini)
+google-generativeai
+python-dotenv
+
+# Text-to-Speech
+pyttsx3
+gTTS
